@@ -1,4 +1,4 @@
-# 🚀 MySmileAI Dental Widgets Library
+# 🚀 Dental  Cost Calculator Widgets
 
 An open-source library of embeddable React/Next.js widgets for dental clinics, health blogs, and insurance companies. Provide your users with real-time 2025 dental cost estimates.
 
