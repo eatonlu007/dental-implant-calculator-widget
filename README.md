@@ -1,15 +1,16 @@
-# 🚀 Dental  Cost Calculator Widgets
+# 🚀 Open-source Dental Implants Cost Calculator
 
-An open-source library of embeddable React/Next.js widgets for dental clinics, health blogs, and insurance companies. Provide your users with real-time 2025 dental cost estimates.
+A React-based cost estimator for dental implants, including All-on-4, single tooth, and full mouth restoration. Features location-based pricing and insurance coverage logic.
 
-## 🌟 Live Demo
-View the discovery page and get embed codes: [fixmysmile.ai/widgets](https://fixmysmile.ai/widgets)
+## 🚀 Live Demo & Price Guide
+**[Click here to view the Live Calculator](https://fixmysmile.ai/dental-implants-cost-calculator)**
+*Check real-world dental implant rates for your specific zip code.*
 
-## 📦 Features
-- **Dental Implants Calculator**: Estimate All-on-4, single, and full mouth restoration costs.
-- **Invisalign Cost Estimator**: Calculate clear aligner prices based on zip code and case complexity.
-- **Mobile Responsive**: Built for small containers and iFrames.
-- **2025 Data**: Pre-loaded with current US average pricing and regional modifiers.
+## Features
+- **Dynamic Pricing**: Adjusts based on US Zip codes.
+- **Component Breakdown**: Estimates for CT Scans, Bone Grafts, and Crowns.
+- **Financing Logic**: Monthly payment calculator with APR options.
+Built for the community to fight back against dental price inflation.
 
 ## 🛠 Quick Start (Embed Anywhere)
 
